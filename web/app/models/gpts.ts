@@ -179,9 +179,9 @@ function formatGpts(row: QueryResultRow): Gpts | undefined {
     console.log("parse gpts detail failed: ", e);
   }
 
-  if (isGptsSensitive(gpts)) {
-    return;
-  }
+//  if (isGptsSensitive(gpts)) {
+//    return;
+//  }
 
   return gpts;
 }
