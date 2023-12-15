@@ -1,6 +1,6 @@
 # GPTs Works
 
-GPTs Works is a Third-party GPTs store.
+GPTs Works is a Third-party GPTs store. And this is a clone of gpts.works site.
 
 ## Introduction
 
