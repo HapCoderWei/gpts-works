@@ -17,7 +17,8 @@ export default () => {
               backgroundImage: "url('/brand.svg')",
             }}
           >
-            GPTs Works
+            {/* GPTs Works */}
+            AI Tools In One
           </a>
         </h1>
 
